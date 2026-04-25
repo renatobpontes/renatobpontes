@@ -3,7 +3,7 @@
 
 After 9 years practicing law, i'm transitioning into software development with a focus on **LegalTech** — applying tech to make legal work faster, fairer, and smarter.
 
-⚡ **Fun Fact:** I was web developer when i was teenage (html/css + joomla/wordpress) - 20y ago
+⚡ **Fun Fact:** Did some web dev as a teen (HTML/CSS + Joomla/WordPress), 18-20 years back
 
 #### 🌱 Currently learning
 - **Python** — fundamentals via CS50x and Python for Everybody
